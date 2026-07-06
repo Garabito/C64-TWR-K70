@@ -4,35 +4,29 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../Sources/cbm_port.c \
-../Sources/font8x8.c \
-../Sources/keyboard.c \
-../Sources/lcd_console.c \
-../Sources/lcdc.c \
-../Sources/main.c \
-../Sources/sdram.c 
+../Sources/cbmbasic/cbm_runtime.c \
+../Sources/cbmbasic/cbmbasic.c \
+../Sources/cbmbasic/console.c \
+../Sources/cbmbasic/plugin.c \
+../Sources/cbmbasic/runtime_k70.c 
 
 OBJS += \
-./Sources/cbm_port.o \
-./Sources/font8x8.o \
-./Sources/keyboard.o \
-./Sources/lcd_console.o \
-./Sources/lcdc.o \
-./Sources/main.o \
-./Sources/sdram.o 
+./Sources/cbmbasic/cbm_runtime.o \
+./Sources/cbmbasic/cbmbasic.o \
+./Sources/cbmbasic/console.o \
+./Sources/cbmbasic/plugin.o \
+./Sources/cbmbasic/runtime_k70.o 
 
 C_DEPS += \
-./Sources/cbm_port.d \
-./Sources/font8x8.d \
-./Sources/keyboard.d \
-./Sources/lcd_console.d \
-./Sources/lcdc.d \
-./Sources/main.d \
-./Sources/sdram.d 
+./Sources/cbmbasic/cbm_runtime.d \
+./Sources/cbmbasic/cbmbasic.d \
+./Sources/cbmbasic/console.d \
+./Sources/cbmbasic/plugin.d \
+./Sources/cbmbasic/runtime_k70.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
-Sources/%.o: ../Sources/%.c
+Sources/cbmbasic/%.o: ../Sources/cbmbasic/%.c
 	@echo 'Building file: $<'
 	@echo 'Invoking: Cross ARM GNU C Compiler'
 	arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"../Sources" -I"../Includes" -std=c99 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" -c -o "$@" "$<"

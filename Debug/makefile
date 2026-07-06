@@ -8,6 +8,7 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
+-include Sources/cbmbasic/subdir.mk
 -include Sources/subdir.mk
 -include Project_Settings/Startup_Code/subdir.mk
 -include subdir.mk
@@ -50,8 +51,8 @@ all: C64_K70.elf secondary-outputs
 # Tool invocations
 C64_K70.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
-	@echo 'Invoking: Cross ARM C++ Linker'
-	arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "MK70FN1M0xxx12_flash.ld" -Xlinker --gc-sections -L"/home/garabo/Workspace/Workspace.KDS/C64_K70/Project_Settings/Linker_Files" -Wl,-Map,"C64_K70.map" --specs=nano.specs --specs=nano.specs -u _printf_float -o "C64_K70.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	@echo 'Invoking: Cross ARM GNU C++ Linker'
+	arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "MK70FN1M0xxx12_flash.ld" -Xlinker --gc-sections -L"C:/Users/nxf82725/Documents/WorkSpace.KDS/C64_K70/Project_Settings/Linker_Files" -Wl,-Map,"C64_K70.map" -specs=nano.specs -specs=nosys.specs -o "C64_K70.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 

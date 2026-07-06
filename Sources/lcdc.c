@@ -18,6 +18,30 @@
 #include "derivative.h"
 #include "lcdc.h"
 
+#define LCD_WIDTH   480
+#define LCD_HEIGHT  272
+
+#define FRAMEBUFFER_ADDR 0x80000000
+
+//uint32_t framebuffer[LCD_WIDTH * LCD_HEIGHT]; //C64
+// Eso consume: 480 × 272 × 4 = 522240 bytes ≈ 510 KB
+// Pero El K70 tiene 128 KB SRAM interna.
+// Solución: Mover framebuffer a SDRAM :
+// --------------------------------------------
+// #define FRAMEBUFFER_ADDR 0x80000000
+// uint32_t *fb = (uint32_t *)FRAMEBUFFER_ADDR;
+// ---------------------------------------------
+
+// Si usas RGB565, en caso contrario, cambiar uint16 por uint32
+
+volatile uint16_t *framebuffer =
+    (volatile uint16_t *)FRAMEBUFFER_ADDR;
+
+
+
+
+
+
 void lcdcInit(void) {
   /* Errata ID 5234 in Mask Set Errata for Mask 0N96B, Rev. 05 OCT 2012
    * states that "GPIO: PORTF registers are not accessible unless
@@ -85,22 +109,33 @@ void lcdcInitScreen() {
 
   // Set LCD Screen Start Address
   LCDC_LSSAR = LCDC_FRAME_START_ADDRESS;
+  // otra manera de activarlo es:
+  // LCDC_LSSAR = (uint32_t)framebuffer;
 
   // Set LCD Size.  The XMAX bit field is the screen x-size/16.
   LCDC_LSR = LCDC_LSR_XMAX(LCDC_SCREEN_XSIZE/16) | LCDC_LSR_YMAX(LCDC_SCREEN_YSIZE);
+  // Otra manera de hacerlo es:
+  // LCDC_LSR =
+  //        LCDC_LSR_XMAX(LCD_WIDTH-1) |
+  //        LCDC_LSR_YMAX(LCD_HEIGHT-1);
 
   // Set LCD virtual page width
-  LCDC_LVPWR = LCDC_LVPWR_VPW(LCDC_SCREEN_XSIZE);
+  // LCDC_LVPWR = LCDC_LVPWR_VPW(LCDC_SCREEN_XSIZE);
+  LCDC_LVPWR = 0; //C64
 
   // Set LCD cursor position & settings (turn off)
   LCDC_LCPR = 0;
   LCDC_LCWHB = 0;
 
+
+
+
   // Set LCD panel configuration.  Use endianess to work with TWR-LCD-RGB lines.
   LCDC_LPCR =
     LCDC_LPCR_TFT_MASK      |       // TFT Screen
     LCDC_LPCR_COLOR_MASK    |       // Color
-    LCDC_LPCR_BPIX(0x7)     |       // 24 bpp
+    //LCDC_LPCR_BPIX(0x7)     |       // 24 bpp
+	LCDC_LPCR_BPIX(5)		| //C64
     LCDC_LPCR_FLMPOL_MASK   |       // first line marker active low (VSYNC)
     LCDC_LPCR_LPPOL_MASK    |       // line pulse active low (HSYNC)
     LCDC_LPCR_END_SEL_MASK  |       // Use big-endian mode (0xFFAA5500 means R=AA,G=55,B=00)
@@ -152,7 +187,8 @@ void lcdcInitScreen() {
   LCDC_LGWCR &=~LCDC_LGWCR_GWE_MASK;
   
   // Set background plane DMA to burst mode
-  LCDC_LDCR &= ~LCDC_LDCR_BURST_MASK;  
+   LCDC_LDCR &= ~LCDC_LDCR_BURST_MASK;
+  //LCDC_LDCR |= LCDC_LDCR_EN_MASK; //C64
 
   // Set graphic window DMA to burst mode
   LCDC_LGWDCR &= ~LCDC_LGWDCR_GWBT_MASK;
@@ -174,3 +210,33 @@ void lcdcInitScreen() {
   // Start the LCDC
   SIM_MCR |= SIM_MCR_LCDSTART_MASK;
 }
+
+extern const uint8_t font8x8[128][8];
+
+void draw_char(
+    int x,
+    int y,
+    char c,
+    uint32_t fg,
+    uint32_t bg)
+	{
+    	int row;
+    	int col;
+
+    	const uint8_t *glyph =
+    			font8x8[(uint8_t)c];
+
+    	for(row=0; row<8; row++)
+    	{
+    		for(col=0; col<8; col++)
+    		{
+    			framebuffer[
+							(y+row)*LCD_WIDTH + (x+col)
+							] =
+									(glyph[row] & (1<<(7-col)))
+									? fg
+											: bg;
+    		}
+    	}
+	}
+
