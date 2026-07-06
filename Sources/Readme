@@ -1,0 +1,81 @@
+Siguientes pasos para completar la emulación:
+1- Cargar las ROMs oficiales: 
+   La C64 necesita 3 archivos binarios fundamentales de lectura de memoria: la ROM del Kernel (kernal.rom), la ROM de BASIC (basic.rom) y la fuente de caracteres (Character Generator, char.rom). Debes convertirlas a arreglos de constantes en C (const uint8_t kernal_rom[] = {...};) e incluirlas en tu proyecto de compilación para copiarlas o mapearlas en las zonas altas de C64_RAM.
+   
+2- Mapeo de caracteres (Text Renderer): El chip gráfico VIC-II convierte los valores almacenados entre 0x0400 y 0x07E7 (RAM de pantalla) en caracteres de 8x8 píxeles usando los patrones de la char.rom. Necesitarás programar una función iterativa que lea esa memoria y dibuje los píxeles correspondientes en el arreglo de memoria FrameBuffer de tu K70.
+
+------------
+
+Paso 1
+
+Para transformar los archivos binarios originales (.rom o .bin) de la Commodore 64 en arreglos de código C (const uint8_t) que tu compilador para el K70 pueda entender, debes seguir un proceso de conversión de datos binarios a texto hexadecimal.A continuación, te explico el paso a paso detallado y las herramientas que puedes utilizar para lograrlo.Paso 1: Conseguir los archivos binarios (.rom)Asegúrate de tener los tres archivos originales de la C64. Sus tamaños exactos deben ser:basic.rom (8 KB - 8,192 bytes)kernal.rom (8 KB - 8,192 bytes)char.rom (4 KB - 4,096 bytes)Paso 2: Convertir los Binarios a Arreglos de CNo puedes abrir estos archivos en un editor de texto común porque contienen bytes puros. Debes usar una herramienta para convertirlos. Elige la opción que te sea más cómoda:Opción A: Usando la terminal (Linux / macOS / Git Bash en Windows)Si tienes acceso a una consola basada en Unix, la herramienta nativa xxd lo hace en un solo comando:bashxxd -i basic.rom > basic_rom.h
+xxd -i kernal.rom > kernal_rom.h
+xxd -i char.rom > char_rom.h
+Usa el código con precaución.Esto generará automáticamente tres archivos .h con la estructura de arreglos lista para usar.Opción B: Usando herramientas gráficas (Windows)Si prefieres una interfaz visual, descarga un editor hexadecimal gratuito como HxD (Hex Editor):Abre basic.rom en HxD.Ve al menú superior: Editar -> Seleccionar todo (o Ctrl+E).Ve a: Editar -> Copiar como -> C (o Exportar como código C).Pega el resultado en un archivo de texto nuevo en tu proyecto y nómbralo basic_rom.h. Repite con los otros dos.Paso 3: Estructura de los archivos en tu proyectoTus tres archivos de cabecera generados (.h) deben lucir exactamente de esta forma dentro de tu IDE (MCUXpresso, IAR o Keil):basic_rom.hc#ifndef BASIC_ROM_H
+#define BASIC_ROM_H
+#include <stdint.h>
+
+// El modificador "const" fuerza al compilador a guardar este arreglo 
+// en la memoria Flash del K70, protegiendo la preciada memoria RAM interna.
+const uint8_t basic_rom[] = {
+    0x4c, 0x5b, 0xa4, 0x4c, 0xa7, 0xa4, 0x4c, 0xb8, // ... (8192 bytes en total)
+    0x00, 0x00, 0x52, 0x55, 0x4e, 0x00, 0x33, 0x33
+};
+#endif
+Usa el código con precaución.Paso 4: Incluir y Mapear en tu código principalUna vez que tengas los archivos en la misma carpeta que tu código, debes importarlos e indicarle a tu emulador en qué direcciones lógicas de la memoria de la C64 deben responder.Modifica tu archivo main.c agregando lo siguiente:c#include "MK70F15.h"
+#include <stdint.h>
+
+// 1. Incluir los arreglos de las ROMs que acabas de convertir
+#include "basic_rom.h"
+#include "kernal_rom.h"
+#include "char.h" // Opcional para el mapeo si decides usar la RAM del VIC
+
+#define C64_WIDTH   320
+#define C64_HEIGHT  200
+
+uint16_t FrameBuffer[C64_HEIGHT][C64_WIDTH] __attribute__((aligned(8)));
+uint8_t  C64_RAM[65536]; // Los 64KB de RAM del sistema emulado
+
+// 2. Función para inicializar el mapa de memoria de la C64
+void C64_Load_ROMs(void) {
+    // Limpiar toda la RAM emulada inicialmente
+    for(int i = 0; i < 65536; i++) {
+        C64_RAM[i] = 0x00;
+    }
+
+    // Copiar la ROM de BASIC a su espacio nativo ($A000 - $BFFF)
+    for(int i = 0; i < 8192; i++) {
+        C64_RAM[0xA000 + i] = basic_rom[i];
+    }
+
+    // Copiar la ROM del Kernal a su espacio nativo ($E000 - $FFFF)
+    for(int i = 0; i < 8192; i++) {
+        C64_RAM[0xE000 + i] = kernal_rom[i];
+    }
+    
+    // NOTA: La char.rom (fuente) no se mapea directamente en la RAM de la CPU
+    // sino que el chip gráfico VIC-II la lee desde un banco separado (comúnmente $D000-$DFFF).
+    // Para simplificar tu renderizador de texto, puedes dejar char_rom[] en la Flash
+    // y leerla directamente desde ahí cuando dibujes en el Framebuffer.
+}
+
+int main(void) {
+    // ... (Inicialización del Watchdog y del LCDC del K70) ...
+
+    // 3. Cargar las ROMs en la memoria simulada antes de encender la CPU
+    C64_Load_ROMs();
+
+    // 4. Configurar el puntero de ejecución (PC) usando el Vector de Reset real de la C64
+    // El Vector de Reset de la Commodore 64 está en las direcciones $FFFC y $FFFD del Kernal.
+    uint16_t reset_vector_low  = C64_RAM[0xFFFC];
+    uint16_t reset_vector_high = C64_RAM[0xFFFD];
+    
+    // Esto apuntará automáticamente a la dirección de arranque oficial ($FCE2 en la C64 original)
+    c64_cpu.PC = (reset_vector_high << 8) | reset_vector_low; 
+
+    // Bucle principal de emulación
+    while(1) {
+        Emulate_6510_Cycle();
+    }
+}
+Usa el código con precaución.Un detalle técnico avanzado (Mapeo por Hardware)En una C64 real, el chip 6510 puede "prender y apagar" las ROMs usando los primeros dos bytes de la memoria ($0000 y $0001) para dejar al descubierto la RAM oculta que está debajo de ellas.Para un inicio básico y ejecutar tus primeros comandos en BASIC, el método de copia directa C64_RAM[0xA000 + i] = basic_rom[i] que te acabo de mostrar funcionará perfectamente. Sin embargo, si en el futuro deseas cargar juegos comerciales complejos, tu función Emulate_6510_Cycle() deberá usar punteros o una función Read_Memory(uint16_t address) que decida dinámicamente si lee el arreglo basic_rom[] o la matriz C64_RAM[] basándose en el estado de los pines de configuración en la dirección $0001.

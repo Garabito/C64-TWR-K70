@@ -1,0 +1,1438 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+                              ./Sources/main.o (atoi)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ctype_.o)
+                              ./Sources/main.o (_ctype_)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+                              ./Sources/main.o (memcpy)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+                              ./Sources/main.o (printf)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                              ./Sources/main.o (puts)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+                              ./Sources/main.o (sscanf)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o) (__seofread)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strchr.o)
+                              ./Sources/main.o (strchr)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcmp.o)
+                              ./Sources/main.o (strcmp)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcpy.o)
+                              ./Sources/main.o (strcpy)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+                              ./Sources/main.o (strlen)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o) (_strtol_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o) (__swbuf_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_write_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o) (__swsetup_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_close_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o) (__errno)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o) (_fflush_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o) (__sinit)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (_fwalk)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_lseek_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o) (_free_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o) (_malloc_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o) (__ssvfscanf_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o) (_scanf_chars)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o) (_read_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o) (errno)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sccl.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o) (__sccl)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o) (_strtoul_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o) (__submore)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o) (memchr)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o) (memmove)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o) (_realloc_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o) (_close)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o) (_fstat)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o) (_isatty)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o) (_lseek)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o) (_sbrk)
+/Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/lcdc.o
+ .text          0x0000000000000000        0x0 ./Sources/lcdc.o
+ .data          0x0000000000000000        0x0 ./Sources/lcdc.o
+ .bss           0x0000000000000000        0x0 ./Sources/lcdc.o
+ .text.lcdcInit
+                0x0000000000000000       0x4c ./Sources/lcdc.o
+ .text.lcdcInitPins
+                0x0000000000000000       0xf4 ./Sources/lcdc.o
+ .text.lcdcInitScreen
+                0x0000000000000000       0xf8 ./Sources/lcdc.o
+ .debug_info    0x0000000000000000      0x699 ./Sources/lcdc.o
+ .debug_abbrev  0x0000000000000000      0x14d ./Sources/lcdc.o
+ .debug_aranges
+                0x0000000000000000       0x30 ./Sources/lcdc.o
+ .debug_ranges  0x0000000000000000       0x20 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0x170 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0xa5a ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x22 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x5e ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x1e ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x5c ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x35 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x34 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0x16d ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x16 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x43 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x57 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x34 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x10 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x58 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0x182 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0x35d ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x10 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x35 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x1c ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0x103 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x6a ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0x1df ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x52 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x3b ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x34 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x26 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0xd1d ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000    0x144f9 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000      0x112 ./Sources/lcdc.o
+ .debug_macro   0x0000000000000000       0x94 ./Sources/lcdc.o
+ .debug_line    0x0000000000000000      0x4e3 ./Sources/lcdc.o
+ .debug_str     0x0000000000000000    0x74131 ./Sources/lcdc.o
+ .comment       0x0000000000000000       0x4a ./Sources/lcdc.o
+ .debug_frame   0x0000000000000000       0x70 ./Sources/lcdc.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Sources/lcdc.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/main.o
+ .text          0x0000000000000000        0x0 ./Sources/main.o
+ .data          0x0000000000000000        0x0 ./Sources/main.o
+ .bss           0x0000000000000000        0x0 ./Sources/main.o
+ .debug_macro   0x0000000000000000      0xa5a ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x22 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x5e ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x1e ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x5c ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x35 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x34 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x57 ./Sources/main.o
+ .debug_macro   0x0000000000000000      0x35d ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x16 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x43 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x34 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x10 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x58 ./Sources/main.o
+ .debug_macro   0x0000000000000000      0x182 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x6a ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x35 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x1c ./Sources/main.o
+ .debug_macro   0x0000000000000000      0x103 ./Sources/main.o
+ .debug_macro   0x0000000000000000      0x1df ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x52 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x3b ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x34 ./Sources/main.o
+ .debug_macro   0x0000000000000000       0x26 ./Sources/main.o
+ .debug_macro   0x0000000000000000      0xd1d ./Sources/main.o
+ .debug_macro   0x0000000000000000    0x144f9 ./Sources/main.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .group         0x0000000000000000        0xc ./Sources/sdram.o
+ .text          0x0000000000000000        0x0 ./Sources/sdram.o
+ .data          0x0000000000000000        0x0 ./Sources/sdram.o
+ .bss           0x0000000000000000        0x0 ./Sources/sdram.o
+ .text.sdramInit
+                0x0000000000000000      0x23c ./Sources/sdram.o
+ .debug_info    0x0000000000000000      0x79a ./Sources/sdram.o
+ .debug_abbrev  0x0000000000000000       0xf0 ./Sources/sdram.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./Sources/sdram.o
+ .debug_ranges  0x0000000000000000       0x10 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0xb7 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000      0xa5a ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x22 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x56 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x51 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000      0x103 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x6a ./Sources/sdram.o
+ .debug_macro   0x0000000000000000      0x1df ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x6a ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x3b ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x34 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000       0x26 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000      0xd1d ./Sources/sdram.o
+ .debug_macro   0x0000000000000000    0x144f9 ./Sources/sdram.o
+ .debug_macro   0x0000000000000000      0x112 ./Sources/sdram.o
+ .debug_line    0x0000000000000000      0x46b ./Sources/sdram.o
+ .debug_str     0x0000000000000000    0x71284 ./Sources/sdram.o
+ .comment       0x0000000000000000       0x4a ./Sources/sdram.o
+ .debug_frame   0x0000000000000000       0x30 ./Sources/sdram.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./Sources/sdram.o
+ .data          0x0000000000000000        0x0 ./Project_Settings/Startup_Code/startup_MK70F12.o
+ .bss           0x0000000000000000        0x0 ./Project_Settings/Startup_Code/startup_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .group         0x0000000000000000        0xc ./Project_Settings/Startup_Code/system_MK70F12.o
+ .text          0x0000000000000000        0x0 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .data          0x0000000000000000        0x0 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .bss           0x0000000000000000        0x0 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x298 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000      0xa5a ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x22 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x56 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x51 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000      0x103 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x6a ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000      0x1df ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x6a ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x3b ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x34 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000       0x26 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000      0xd1d ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_macro   0x0000000000000000    0x144f9 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+ .text._atoi_r  0x0000000000000000        0x8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x28 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+ .text._sscanf_r
+                0x0000000000000000       0x54 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strchr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+ .text.strtol_l
+                0x0000000000000000       0x14 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x18 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x18 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x3a /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x1a /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x14 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sccl.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sccl.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sccl.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .text.strtoul_l
+                0x0000000000000000       0x14 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .text.strtoul  0x0000000000000000       0x14 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+ .text._ungetc_r
+                0x0000000000000000      0x130 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+ .text.ungetc   0x0000000000000000       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x294 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000000000       0x3c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x0000000000000000 0x0000000000000400 xr
+m_flash_config   0x0000000000000400 0x0000000000000010 xr
+m_text           0x0000000000000410 0x00000000000ffbf0 xr
+m_data           0x0000000020000000 0x0000000000010000 rw
+m_data_1FFF0000  0x000000001fff0000 0x0000000000010000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD ./Sources/lcdc.o
+LOAD ./Sources/main.o
+LOAD ./Sources/sdram.o
+LOAD ./Project_Settings/Startup_Code/startup_MK70F12.o
+LOAD ./Project_Settings/Startup_Code/system_MK70F12.o
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+START GROUP
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000000000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x0000000000000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x0000000000000000      0x400
+                0x0000000000000000                __VECTOR_TABLE = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x400 ./Project_Settings/Startup_Code/startup_MK70F12.o
+                0x0000000000000000                __isr_vector
+                0x0000000000000400                . = ALIGN (0x4)
+
+.flash_config   0x0000000000000400       0x10
+                0x0000000000000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x0000000000000400       0x10 ./Project_Settings/Startup_Code/startup_MK70F12.o
+                0x0000000000000410                . = ALIGN (0x4)
+
+.text           0x0000000000000410     0x2a88
+                0x0000000000000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000410       0x40 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000450       0x7c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                0x0000000000000450                _stack_init
+                0x0000000000000458                _mainCRTStartup
+                0x0000000000000458                _start
+ .text          0x00000000000004cc       0x54 ./Project_Settings/Startup_Code/startup_MK70F12.o
+                0x00000000000004cc                Reset_Handler
+                0x000000000000051c                CAN0_Rx_Warning_IRQHandler
+                0x000000000000051c                DMA2_DMA18_IRQHandler
+                0x000000000000051c                DebugMon_Handler
+                0x000000000000051c                NFC_IRQHandler
+                0x000000000000051c                I2C0_IRQHandler
+                0x000000000000051c                HardFault_Handler
+                0x000000000000051c                CAN1_ORed_Message_buffer_IRQHandler
+                0x000000000000051c                DMA3_DMA19_IRQHandler
+                0x000000000000051c                SysTick_Handler
+                0x000000000000051c                UART3_RX_TX_IRQHandler
+                0x000000000000051c                PendSV_Handler
+                0x000000000000051c                NMI_Handler
+                0x000000000000051c                UART0_RX_TX_IRQHandler
+                0x000000000000051c                I2C1_IRQHandler
+                0x000000000000051c                DMA14_DMA30_IRQHandler
+                0x000000000000051c                Reserved59_IRQHandler
+                0x000000000000051c                ENET_Error_IRQHandler
+                0x000000000000051c                USBHS_IRQHandler
+                0x000000000000051c                CAN0_Tx_Warning_IRQHandler
+                0x000000000000051c                DMA4_DMA20_IRQHandler
+                0x000000000000051c                PIT0_IRQHandler
+                0x000000000000051c                CAN0_ORed_Message_buffer_IRQHandler
+                0x000000000000051c                Watchdog_IRQHandler
+                0x000000000000051c                CMP2_IRQHandler
+                0x000000000000051c                DMA6_DMA22_IRQHandler
+                0x000000000000051c                Reserved116_IRQHandler
+                0x000000000000051c                TSI0_IRQHandler
+                0x000000000000051c                DMA9_DMA25_IRQHandler
+                0x000000000000051c                ENET_Receive_IRQHandler
+                0x000000000000051c                ENET_1588_Timer_IRQHandler
+                0x000000000000051c                CAN1_Error_IRQHandler
+                0x000000000000051c                UART2_RX_TX_IRQHandler
+                0x000000000000051c                I2S1_Tx_IRQHandler
+                0x000000000000051c                DMA8_DMA24_IRQHandler
+                0x000000000000051c                SWI_IRQHandler
+                0x000000000000051c                ADC0_IRQHandler
+                0x000000000000051c                UsageFault_Handler
+                0x000000000000051c                I2S0_Tx_IRQHandler
+                0x000000000000051c                CMT_IRQHandler
+                0x000000000000051c                UART4_RX_TX_IRQHandler
+                0x000000000000051c                SPI1_IRQHandler
+                0x000000000000051c                DefaultISR
+                0x000000000000051c                CMP1_IRQHandler
+                0x000000000000051c                PORTD_IRQHandler
+                0x000000000000051c                PORTB_IRQHandler
+                0x000000000000051c                UART4_ERR_IRQHandler
+                0x000000000000051c                ADC1_IRQHandler
+                0x000000000000051c                PIT2_IRQHandler
+                0x000000000000051c                I2S0_Rx_IRQHandler
+                0x000000000000051c                LPTimer_IRQHandler
+                0x000000000000051c                PORTF_IRQHandler
+                0x000000000000051c                RTC_IRQHandler
+                0x000000000000051c                PDB0_IRQHandler
+                0x000000000000051c                CAN1_Bus_Off_IRQHandler
+                0x000000000000051c                CMP3_IRQHandler
+                0x000000000000051c                FTM1_IRQHandler
+                0x000000000000051c                LCD_IRQHandler
+                0x000000000000051c                I2S1_Rx_IRQHandler
+                0x000000000000051c                UART5_RX_TX_IRQHandler
+                0x000000000000051c                ADC3_IRQHandler
+                0x000000000000051c                Reserved95_IRQHandler
+                0x000000000000051c                UART3_ERR_IRQHandler
+                0x000000000000051c                PIT3_IRQHandler
+                0x000000000000051c                DMA5_DMA21_IRQHandler
+                0x000000000000051c                DMA11_DMA27_IRQHandler
+                0x000000000000051c                SDHC_IRQHandler
+                0x000000000000051c                RTC_Seconds_IRQHandler
+                0x000000000000051c                MCG_IRQHandler
+                0x000000000000051c                FTFE_IRQHandler
+                0x000000000000051c                UART2_ERR_IRQHandler
+                0x000000000000051c                UART5_ERR_IRQHandler
+                0x000000000000051c                Read_Collision_IRQHandler
+                0x000000000000051c                Default_Handler
+                0x000000000000051c                Reserved102_IRQHandler
+                0x000000000000051c                DMA12_DMA28_IRQHandler
+                0x000000000000051c                ENET_Transmit_IRQHandler
+                0x000000000000051c                USBDCD_IRQHandler
+                0x000000000000051c                DDR_IRQHandler
+                0x000000000000051c                CAN1_Tx_Warning_IRQHandler
+                0x000000000000051c                USB0_IRQHandler
+                0x000000000000051c                LLW_IRQHandler
+                0x000000000000051c                ADC2_IRQHandler
+                0x000000000000051c                SPI2_IRQHandler
+                0x000000000000051c                MemManage_Handler
+                0x000000000000051c                CAN1_Rx_Warning_IRQHandler
+                0x000000000000051c                Reserved115_IRQHandler
+                0x000000000000051c                SVC_Handler
+                0x000000000000051c                CAN1_Wake_Up_IRQHandler
+                0x000000000000051c                UART0_LON_IRQHandler
+                0x000000000000051c                RNG_IRQHandler
+                0x000000000000051c                DAC0_IRQHandler
+                0x000000000000051c                DMA13_DMA29_IRQHandler
+                0x000000000000051c                CAN0_Error_IRQHandler
+                0x000000000000051c                PIT1_IRQHandler
+                0x000000000000051c                DMA7_DMA23_IRQHandler
+                0x000000000000051c                UART0_ERR_IRQHandler
+                0x000000000000051c                DMA_Error_IRQHandler
+                0x000000000000051c                LVD_LVW_IRQHandler
+                0x000000000000051c                SPI0_IRQHandler
+                0x000000000000051c                FTM0_IRQHandler
+                0x000000000000051c                PORTA_IRQHandler
+                0x000000000000051c                DAC1_IRQHandler
+                0x000000000000051c                MCM_IRQHandler
+                0x000000000000051c                CAN0_Bus_Off_IRQHandler
+                0x000000000000051c                FTM3_IRQHandler
+                0x000000000000051c                PORTE_IRQHandler
+                0x000000000000051c                DMA15_DMA31_IRQHandler
+                0x000000000000051c                FTM2_IRQHandler
+                0x000000000000051c                BusFault_Handler
+                0x000000000000051c                CAN0_Wake_Up_IRQHandler
+                0x000000000000051c                DMA10_DMA26_IRQHandler
+                0x000000000000051c                UART1_ERR_IRQHandler
+                0x000000000000051c                UART1_RX_TX_IRQHandler
+                0x000000000000051c                DMA0_DMA16_IRQHandler
+                0x000000000000051c                CMP0_IRQHandler
+                0x000000000000051c                PORTC_IRQHandler
+                0x000000000000051c                DMA1_DMA17_IRQHandler
+ .text          0x0000000000000520       0x14 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcmp.o)
+                0x0000000000000520                strcmp
+ .text          0x0000000000000534       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+                0x0000000000000534                strlen
+ *fill*         0x0000000000000544        0xc 
+ .text          0x0000000000000550       0xa0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+                0x0000000000000550                memchr
+ *(.text*)
+ .text.UART_Init
+                0x00000000000005f0       0xa4 ./Sources/main.o
+                0x00000000000005f0                UART_Init
+ .text.UART_PutChar
+                0x0000000000000694       0x30 ./Sources/main.o
+                0x0000000000000694                UART_PutChar
+ .text.UART_GetChar
+                0x00000000000006c4       0x2c ./Sources/main.o
+                0x00000000000006c4                UART_GetChar
+ .text._write   0x00000000000006f0       0x4e ./Sources/main.o
+                0x00000000000006f0                _write
+ *fill*         0x000000000000073e        0x2 
+ .text.LimpiarPrograma
+                0x0000000000000740       0x40 ./Sources/main.o
+                0x0000000000000740                LimpiarPrograma
+ .text.RegistrarLinea
+                0x0000000000000780      0x1bc ./Sources/main.o
+                0x0000000000000780                RegistrarLinea
+ .text.EjecutarComandoInmediato
+                0x000000000000093c      0x2c0 ./Sources/main.o
+                0x000000000000093c                EjecutarComandoInmediato
+ .text.ListarPrograma
+                0x0000000000000bfc       0x5c ./Sources/main.o
+                0x0000000000000bfc                ListarPrograma
+ .text.EjecutarPrograma
+                0x0000000000000c58       0x64 ./Sources/main.o
+                0x0000000000000c58                EjecutarPrograma
+ .text._read    0x0000000000000cbc       0x94 ./Sources/main.o
+                0x0000000000000cbc                _read
+ .text.main     0x0000000000000d50      0x1d0 ./Sources/main.o
+                0x0000000000000d50                main
+ .text.SystemInit
+                0x0000000000000f20      0x1a8 ./Project_Settings/Startup_Code/system_MK70F12.o
+                0x0000000000000f20                SystemInit
+ .text.atoi     0x00000000000010c8        0x8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+                0x00000000000010c8                atoi
+ .text.exit     0x00000000000010d0       0x28 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+                0x00000000000010d0                exit
+ .text.__libc_init_array
+                0x00000000000010f8       0x48 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+                0x00000000000010f8                __libc_init_array
+ .text.memcpy   0x0000000000001140       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+                0x0000000000001140                memcpy
+ .text.memset   0x000000000000115c       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+                0x000000000000115c                memset
+ .text.printf   0x000000000000116c       0x30 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+                0x000000000000116c                printf
+                0x000000000000116c                iprintf
+ .text._puts_r  0x000000000000119c       0xdc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                0x000000000000119c                _puts_r
+ .text.puts     0x0000000000001278       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+                0x0000000000001278                puts
+ .text.sscanf   0x0000000000001288       0x58 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+                0x0000000000001288                sscanf
+                0x0000000000001288                siscanf
+ .text.__sread  0x00000000000012e0       0x22 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x00000000000012e0                __sread
+ .text.__seofread
+                0x0000000000001302        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x0000000000001302                __seofread
+ .text.__swrite
+                0x0000000000001306       0x38 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x0000000000001306                __swrite
+ .text.__sseek  0x000000000000133e       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x000000000000133e                __sseek
+ .text.__sclose
+                0x0000000000001362        0x8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+                0x0000000000001362                __sclose
+ .text.strchr   0x000000000000136a       0x1a /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strchr.o)
+                0x000000000000136a                strchr
+ .text.strcpy   0x0000000000001384       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcpy.o)
+                0x0000000000001384                strcpy
+ .text._strtol_l.constprop.0
+                0x0000000000001394      0x104 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x0000000000001498        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+                0x0000000000001498                _strtol_r
+ .text.strtol   0x000000000000149c       0x14 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+                0x000000000000149c                strtol
+ .text.__swbuf_r
+                0x00000000000014b0       0xa4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+                0x00000000000014b0                __swbuf_r
+ .text._write_r
+                0x0000000000001554       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+                0x0000000000001554                _write_r
+ .text.__swsetup_r
+                0x0000000000001578       0xdc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+                0x0000000000001578                __swsetup_r
+ .text._close_r
+                0x0000000000001654       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+                0x0000000000001654                _close_r
+ .text.__errno  0x0000000000001674        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+                0x0000000000001674                __errno
+ .text.__sflush_r
+                0x0000000000001680      0x10c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                0x0000000000001680                __sflush_r
+ .text._fflush_r
+                0x000000000000178c       0x78 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+                0x000000000000178c                _fflush_r
+ .text.std      0x0000000000001804       0x48 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x000000000000184c        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x000000000000184c                _cleanup_r
+ .text.__sfmoreglue
+                0x0000000000001858       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000000001858                __sfmoreglue
+ .text.__sfp_lock_acquire
+                0x0000000000001884        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000000001884                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x0000000000001890        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000000001890                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x000000000000189c        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x000000000000189c                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x00000000000018a8        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x00000000000018a8                __sinit_lock_release
+ .text.__sinit  0x00000000000018b4       0x70 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x00000000000018b4                __sinit
+ .text.__sfp    0x0000000000001924       0x8c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000000001924                __sfp
+ .text._fwalk_reent
+                0x00000000000019b0       0x3e /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+                0x00000000000019b0                _fwalk_reent
+ .text.__retarget_lock_init_recursive
+                0x00000000000019ee        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x00000000000019ee                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x00000000000019f0        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x00000000000019f0                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x00000000000019f2        0x2 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x00000000000019f2                __retarget_lock_release_recursive
+ .text._lseek_r
+                0x00000000000019f4       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+                0x00000000000019f4                _lseek_r
+ .text.__swhatbuf_r
+                0x0000000000001a18       0x4a /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                0x0000000000001a18                __swhatbuf_r
+ *fill*         0x0000000000001a62        0x2 
+ .text.__smakebuf_r
+                0x0000000000001a64       0x80 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+                0x0000000000001a64                __smakebuf_r
+ .text._free_r  0x0000000000001ae4       0x98 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+                0x0000000000001ae4                _free_r
+ .text.sbrk_aligned
+                0x0000000000001b7c       0x40 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000001bbc       0xe8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000001bbc                _malloc_r
+ .text._sungetc_r
+                0x0000000000001ca4       0x7a /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+                0x0000000000001ca4                _sungetc_r
+ .text.__ssrefill_r
+                0x0000000000001d1e       0x3a /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+                0x0000000000001d1e                __ssrefill_r
+ .text.__ssvfscanf_r
+                0x0000000000001d58      0x2f0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+                0x0000000000001d58                __ssvfscanf_r
+                0x0000000000001d58                __ssvfiscanf_r
+ .text.__sfputc_r
+                0x0000000000002048       0x2e /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x0000000000002076       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000002076                __sfputs_r
+ *fill*         0x000000000000209a        0x2 
+ .text._vfprintf_r
+                0x000000000000209c      0x260 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x000000000000209c                _vfiprintf_r
+                0x000000000000209c                _vfprintf_r
+ .text._printf_common
+                0x00000000000022fc       0xda /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000000022fc                _printf_common
+ *fill*         0x00000000000023d6        0x2 
+ .text._printf_i
+                0x00000000000023d8      0x24c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000000000023d8                _printf_i
+ .text._scanf_chars
+                0x0000000000002624       0xb4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+                0x0000000000002624                _scanf_chars
+ .text._scanf_i
+                0x00000000000026d8      0x1f0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+                0x00000000000026d8                _scanf_i
+ .text._read_r  0x00000000000028c8       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+                0x00000000000028c8                _read_r
+ .text._sbrk_r  0x00000000000028ec       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+                0x00000000000028ec                _sbrk_r
+ .text.__sccl   0x000000000000290c       0x70 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sccl.o)
+                0x000000000000290c                __sccl
+ .text._strtoul_l.constprop.0
+                0x000000000000297c       0xe4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .text._strtoul_r
+                0x0000000000002a60        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+                0x0000000000002a60                _strtoul_r
+ .text.__submore
+                0x0000000000002a64       0x74 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+                0x0000000000002a64                __submore
+ .text._fstat_r
+                0x0000000000002ad8       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+                0x0000000000002ad8                _fstat_r
+ .text._isatty_r
+                0x0000000000002afc       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+                0x0000000000002afc                _isatty_r
+ .text.__malloc_lock
+                0x0000000000002b1c        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                0x0000000000002b1c                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000002b28        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+                0x0000000000002b28                __malloc_unlock
+ .text._realloc_r
+                0x0000000000002b34       0x5e /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+                0x0000000000002b34                _realloc_r
+ .text._malloc_usable_size_r
+                0x0000000000002b92       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+                0x0000000000002b92                _malloc_usable_size_r
+ *fill*         0x0000000000002ba2        0x2 
+ .text._close   0x0000000000002ba4       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+                0x0000000000002ba4                _close
+ .text._fstat   0x0000000000002bb4       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+                0x0000000000002bb4                _fstat
+ .text._isatty  0x0000000000002bc4       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+                0x0000000000002bc4                _isatty
+ .text._lseek   0x0000000000002bd4       0x10 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+                0x0000000000002bd4                _lseek
+ .text._sbrk    0x0000000000002be4       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                0x0000000000002be4                _sbrk
+ .text._exit    0x0000000000002c00        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                0x0000000000002c00                _exit
+ *(.rodata)
+ .rodata        0x0000000000002c04       0xb8 ./Sources/main.o
+ .rodata        0x0000000000002cbc        0xc /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ *(.rodata*)
+ .rodata._ctype_
+                0x0000000000002cc8      0x101 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ctype_.o)
+                0x0000000000002cc8                _ctype_
+ *fill*         0x0000000000002dc9        0x3 
+ .rodata._global_impure_ptr
+                0x0000000000002dcc        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x0000000000002dcc                _global_impure_ptr
+ .rodata.__sf_fake_stderr
+                0x0000000000002dd0       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000000002dd0                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x0000000000002df0       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000000002df0                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x0000000000002e10       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+                0x0000000000002e10                __sf_fake_stdout
+ .rodata.__ssvfscanf_r.str1.1
+                0x0000000000002e30        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+ .rodata._vfprintf_r.str1.1
+                0x0000000000002e34        0xd /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+                                         0x11 (size before relaxing)
+ .rodata._printf_i.str1.1
+                0x0000000000002e41       0x22 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .rodata.str1.1
+                0x0000000000002e63        0x9 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ .rodata._scanf_i.str1.1
+                0x0000000000002e6c       0x12 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ *(.glue_7)
+ .glue_7        0x0000000000002e7e        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000000002e7e        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x0000000000002e7e        0x2 
+ .eh_frame      0x0000000000002e80        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000000002e80        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000000002e80                _init
+ .init          0x0000000000002e84        0x8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000000002e8c        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000000002e8c                _fini
+ .fini          0x0000000000002e90        0x8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000000002e98                . = ALIGN (0x4)
+
+.vfp11_veneer   0x0000000000002e98        0x0
+ .vfp11_veneer  0x0000000000002e98        0x0 linker stubs
+
+.v4_bx          0x0000000000002e98        0x0
+ .v4_bx         0x0000000000002e98        0x0 linker stubs
+
+.iplt           0x0000000000002e98        0x0
+ .iplt          0x0000000000002e98        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000000002e98        0x8
+                0x0000000000002e98                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0000000000002e98        0x8 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                                         0x10 (size before relaxing)
+                0x0000000000002ea0                __exidx_end = .
+
+.rel.dyn        0x0000000000002ea0        0x0
+ .rel.iplt      0x0000000000002ea0        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ctors          0x0000000000002ea0        0x0
+                0x0000000000002ea0                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x0000000000002ea0                __CTOR_END__ = .
+
+.dtors          0x0000000000002ea0        0x0
+                0x0000000000002ea0                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x0000000000002ea0                __DTOR_END__ = .
+
+.preinit_array  0x0000000000002ea0        0x0
+                0x0000000000002ea0                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000000002ea0                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000002ea0        0x4
+                0x0000000000002ea0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000000002ea0        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000000002ea4                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000002ea4        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000000002ea4        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000000002ea8                __etext = .
+                0x0000000000002ea8                __DATA_ROM = .
+
+.data           0x0000000020000000       0x64 load address 0x0000000000002ea8
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __DATA_RAM = .
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data._impure_ptr
+                0x0000000020000000        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+                0x0000000020000000                _impure_ptr
+ .data.impure_data
+                0x0000000020000004       0x60 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ *(.jcr*)
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                __data_end__ = .
+                0x0000000000002f0c                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x0000000000002f0c                __m_data_1FFF0000_ROMStart = (__DATA_ROM + SIZEOF (.data))
+
+.igot.plt       0x0000000020000064        0x0 load address 0x0000000000002f0c
+ .igot.plt      0x0000000020000064        0x0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.m_data_1FFF0000
+                0x000000001fff0000        0x0 load address 0x0000000000002f0c
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x000000001fff0000                __m_data_1FFF0000_RAMStart = .
+ *(.m_data_1FFF0000)
+                0x000000001fff0000                __m_data_1FFF0000_RAMEnd = .
+                0x000000001fff0000                . = ALIGN (0x4)
+                0x0000000000000000                __m_data_1FFF0000_ROMSize = (__m_data_1FFF0000_RAMEnd - __m_data_1FFF0000_RAMStart)
+
+.bss            0x0000000020000064     0x1b2c load address 0x0000000000002f0c
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                __START_BSS = .
+                0x0000000020000064                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000020000064       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.programa  0x0000000020000080     0x1a90 ./Sources/main.o
+                0x0000000020000080                programa
+ .bss.total_lineas
+                0x0000000020001b10        0x4 ./Sources/main.o
+                0x0000000020001b10                total_lineas
+ .bss.variables
+                0x0000000020001b14       0x68 ./Sources/main.o
+                0x0000000020001b14                variables
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000020001b7c        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x0000000020001b7c                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000020001b7d        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x0000000020001b7d                __lock___sfp_recursive_mutex
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000020001b7e        0x1 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+                0x0000000020001b7e                __lock___sinit_recursive_mutex
+ *fill*         0x0000000020001b7f        0x1 
+ .bss.__malloc_free_list
+                0x0000000020001b80        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020001b80                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x0000000020001b84        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020001b84                __malloc_sbrk_start
+ .bss.errno     0x0000000020001b88        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+                0x0000000020001b88                errno
+ .bss.heap_end.0
+                0x0000000020001b8c        0x4 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ *(COMMON)
+                0x0000000020001b90                . = ALIGN (0x4)
+                0x0000000020001b90                __bss_end__ = .
+                0x0000000020001b90                __END_BSS = .
+
+.heap           0x0000000020001b90      0x400 load address 0x0000000000004a38
+                0x0000000020001b90                . = ALIGN (0x8)
+                0x0000000020001b90                __end__ = .
+                0x0000000020001b90                PROVIDE (end = .)
+                0x0000000020001b90                __HeapBase = .
+                0x0000000020001f90                . = (. + HEAP_SIZE)
+ *fill*         0x0000000020001b90      0x400 
+                0x0000000020001f90                __HeapLimit = .
+
+.stack          0x0000000020001f90      0x400 load address 0x0000000000004e38
+                0x0000000020001f90                . = ALIGN (0x8)
+                0x0000000020002390                . = (. + STACK_SIZE)
+ *fill*         0x0000000020001f90      0x400 
+                0x0000000020002390                __StackTop = .
+                0x0000000020001f90                __StackLimit = (__StackTop - STACK_SIZE)
+                0x0000000020002390                PROVIDE (__stack = __StackTop)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x000000000000006e       0x34 ./Sources/main.o
+ .ARM.attributes
+                0x00000000000000a2       0x1f ./Project_Settings/Startup_Code/startup_MK70F12.o
+ .ARM.attributes
+                0x00000000000000c1       0x34 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .ARM.attributes
+                0x00000000000000f5       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x0000000000000129       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x000000000000015d       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000191       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000001c5       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000001f9       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000000000000022d       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000261       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000000000000295       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .ARM.attributes
+                0x00000000000002c9       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+ .ARM.attributes
+                0x00000000000002fd       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000331       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x0000000000000365       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000381       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000000000003b5       0x17 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000000003cc       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x0000000000000400       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x0000000000000434       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000468       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000000000000049c       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000000004d0       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000504       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000538       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000056c       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000000005a0       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000005d4       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000608       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000000000000063c       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000670       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000000006a4       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+ .ARM.attributes
+                0x00000000000006d8       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000000000000070c       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000000000000740       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ .ARM.attributes
+                0x0000000000000774       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000000007a8       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000000007dc       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000810       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sccl.o)
+ .ARM.attributes
+                0x0000000000000844       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .ARM.attributes
+                0x0000000000000878       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+ .ARM.attributes
+                0x00000000000008ac       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000000000008e0       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000000000000914       0x1c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000000000000930       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000964       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000000000000998       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000000000009cc       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .ARM.attributes
+                0x0000000000000a00       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+ .ARM.attributes
+                0x0000000000000a34       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+ .ARM.attributes
+                0x0000000000000a68       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x0000000000000a9c       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000ad0       0x34 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000b04       0x1e /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(C64_K70.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0x13ad
+ .debug_info    0x0000000000000000      0xbd1 ./Sources/main.o
+ .debug_info    0x0000000000000bd1       0x26 ./Project_Settings/Startup_Code/startup_MK70F12.o
+ .debug_info    0x0000000000000bf7      0x7b6 ./Project_Settings/Startup_Code/system_MK70F12.o
+
+.debug_abbrev   0x0000000000000000      0x3e3
+ .debug_abbrev  0x0000000000000000      0x290 ./Sources/main.o
+ .debug_abbrev  0x0000000000000290       0x14 ./Project_Settings/Startup_Code/startup_MK70F12.o
+ .debug_abbrev  0x00000000000002a4      0x13f ./Project_Settings/Startup_Code/system_MK70F12.o
+
+.debug_aranges  0x0000000000000000       0xb8
+ .debug_aranges
+                0x0000000000000000       0x70 ./Sources/main.o
+ .debug_aranges
+                0x0000000000000070       0x20 ./Project_Settings/Startup_Code/startup_MK70F12.o
+ .debug_aranges
+                0x0000000000000090       0x28 ./Project_Settings/Startup_Code/system_MK70F12.o
+
+.debug_ranges   0x0000000000000000       0x90
+ .debug_ranges  0x0000000000000000       0x78 ./Sources/main.o
+ .debug_ranges  0x0000000000000078       0x18 ./Project_Settings/Startup_Code/system_MK70F12.o
+
+.debug_macro    0x0000000000000000      0x772
+ .debug_macro   0x0000000000000000      0x1f4 ./Sources/main.o
+ .debug_macro   0x00000000000001f4       0x16 ./Sources/main.o
+ .debug_macro   0x000000000000020a       0x97 ./Sources/main.o
+ .debug_macro   0x00000000000002a1       0xf6 ./Sources/main.o
+ .debug_macro   0x0000000000000397       0x10 ./Sources/main.o
+ .debug_macro   0x00000000000003a7       0x10 ./Sources/main.o
+ .debug_macro   0x00000000000003b7       0xb2 ./Sources/main.o
+ .debug_macro   0x0000000000000469       0x16 ./Sources/main.o
+ .debug_macro   0x000000000000047f      0x129 ./Sources/main.o
+ .debug_macro   0x00000000000005a8       0x16 ./Sources/main.o
+ .debug_macro   0x00000000000005be       0x22 ./Sources/main.o
+ .debug_macro   0x00000000000005e0       0x16 ./Sources/main.o
+ .debug_macro   0x00000000000005f6       0xa2 ./Sources/main.o
+ .debug_macro   0x0000000000000698       0xda ./Project_Settings/Startup_Code/system_MK70F12.o
+
+.debug_line     0x0000000000000000      0xf5b
+ .debug_line    0x0000000000000000      0x99e ./Sources/main.o
+ .debug_line    0x000000000000099e       0x86 ./Project_Settings/Startup_Code/startup_MK70F12.o
+ .debug_line    0x0000000000000a24      0x537 ./Project_Settings/Startup_Code/system_MK70F12.o
+
+.debug_str      0x0000000000000000    0x742f1
+ .debug_str     0x0000000000000000    0x7409b ./Sources/main.o
+                                      0x742b4 (size before relaxing)
+ .debug_str     0x000000000007409b       0x41 ./Project_Settings/Startup_Code/startup_MK70F12.o
+                                         0x74 (size before relaxing)
+ .debug_str     0x00000000000740dc      0x215 ./Project_Settings/Startup_Code/system_MK70F12.o
+                                      0x70b80 (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 ./Sources/main.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a ./Project_Settings/Startup_Code/system_MK70F12.o
+
+.debug_frame    0x0000000000000000      0xf00
+ .debug_frame   0x0000000000000000      0x1a8 ./Sources/main.o
+ .debug_frame   0x00000000000001a8       0x58 ./Project_Settings/Startup_Code/system_MK70F12.o
+ .debug_frame   0x0000000000000200       0x30 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-atoi.o)
+ .debug_frame   0x0000000000000230       0x28 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000258       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000284       0x28 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000002ac       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000002cc       0x74 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-printf.o)
+ .debug_frame   0x0000000000000340       0x3c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-puts.o)
+ .debug_frame   0x000000000000037c       0x78 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sscanf.o)
+ .debug_frame   0x00000000000003f4       0x88 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x000000000000047c       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strchr.o)
+ .debug_frame   0x000000000000049c       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000000004bc       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000000004dc       0x64 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtol.o)
+ .debug_frame   0x0000000000000540       0x40 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000000580       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x00000000000005ac       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000000005d8       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000604       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000624       0x5c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000680      0x14c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000000000007cc       0x54 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000820       0xb0 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000000000008d0       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000000008fc       0x58 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000954       0x38 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x000000000000098c       0x4c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000000009d8       0x74 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-svfscanf.o)
+ .debug_frame   0x0000000000000a4c       0xac /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x0000000000000af8       0x60 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000000b58       0x64 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-vfscanf_i.o)
+ .debug_frame   0x0000000000000bbc       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000be8       0x5c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000c44       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000c70       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-sccl.o)
+ .debug_frame   0x0000000000000c9c       0x64 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-strtoul.o)
+ .debug_frame   0x0000000000000d00       0x5c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-ungetc.o)
+ .debug_frame   0x0000000000000d5c       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000d88       0x2c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000000db4       0x30 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000de4       0x3c /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000e20       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000e40       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .debug_frame   0x0000000000000e60       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+ .debug_frame   0x0000000000000e80       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+ .debug_frame   0x0000000000000ea0       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .debug_frame   0x0000000000000ec0       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000000ee0       0x20 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+
+.stab           0x0000000000000000       0x6c
+ .stab          0x0000000000000000       0x24 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .stab          0x0000000000000024       0x18 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(fstat.o)
+                                         0x24 (size before relaxing)
+ .stab          0x000000000000003c       0x18 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(isatty.o)
+                                         0x24 (size before relaxing)
+ .stab          0x0000000000000054       0x18 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+                                         0x24 (size before relaxing)
+
+.stabstr        0x0000000000000000       0xe3
+ .stabstr       0x0000000000000000       0xe3 /Eln/garabo/App.Micros/Freescale.NXP/kinetis-design-studio-3.2.0-1.x86_64/toolchain/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
